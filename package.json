@@ -21,7 +21,7 @@
     "drizzle-kit": "^0.31.0",
     "drizzle-orm": "^0.42.0",
     "drizzle-zod": "^0.7.1",
-    "next": "^14.2.23",
+    "next": "^14.2.32",
     "next-auth": "^4.24.11",
     "pg": "^8.14.1",
     "postgres": "^3.4.5",
